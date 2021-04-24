@@ -4,4 +4,4 @@ Push /
 Branch / 
 SubBranch / 
 Merge / 
-MergeSubbranch /
+MergeSubbranch
