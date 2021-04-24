@@ -1,7 +1,7 @@
 # GitDemo
-Pull
-Push
-Branch
-SubBranch
-Merge
-Merge Subbranch
+Pull / 
+Push / 
+Branch / 
+SubBranch / 
+Merge / 
+MergeSubbranch /
